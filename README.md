@@ -1,8 +1,8 @@
-# Tiktok Clone API (tiktok-clone-api)
+# Shinkansen API (tiktok-clone-api)
 
-### For this Tiktok Clone API to work you'll need the Frontend:
+### For this Shinkansen API to work you'll need the Frontend:
 
-Tiktok Clone: https://github.com/nur1labs/shinkansen-fe
+Shinkansen: https://github.com/nur1labs/shinkansen-fe
 
 ## App Setup
 
