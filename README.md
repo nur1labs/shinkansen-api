@@ -19,7 +19,7 @@ Tiktok Clone: https://github.com/John-Weeks-Dev/tiktok-clone
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/tiktok-clone-api.git
+gh repo clone nur1labs/shinkansen-api
 ```
 
 Then
