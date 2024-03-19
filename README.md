@@ -1,20 +1,8 @@
 # Tiktok Clone API (tiktok-clone-api)
 
-### Learn how to build this!
-
-If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
-
-[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/226179167-b06ebc34-40f6-44ac-82a7-eb9333389f34.png)](https://www.youtube.com/watch?v=CHSL0Btbj_o)
-
-Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
-
-**LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
-
-## NOTE
-
 ### For this Tiktok Clone API to work you'll need the Frontend:
 
-Tiktok Clone: https://github.com/John-Weeks-Dev/tiktok-clone
+Tiktok Clone: https://github.com/nur1labs/shinkansen-fe
 
 ## App Setup
 
