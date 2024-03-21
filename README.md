@@ -10,10 +10,24 @@ Shinkansen: https://github.com/nur1labs/shinkansen-fe
 gh repo clone nur1labs/shinkansen-api
 ```
 
-Then
+Install composer
 ```
 composer install 
+```
 
+Upgrade composer version to 2.x. 
+```
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+```
+
+Then, upgrade composer with root permission into /usr/bin.
+```
+php composer-setup.php --version=2.2.0 --install-dir=/usr/bin --filename=composer
+php -r "unlink('composer-setup.php');"
+```
+
+Then
+``` 
 cp .env.example .env 
 
 php artisan cache:clear 
@@ -22,7 +36,7 @@ composer dump-autoload
 
 php artisan key:generate
 
-composer require laravel/breeze --dev
+composer require laravel/breeze:* --dev
 
 php artisan breeze:install (FOR THIS SELECT THE API INSTALL)
 
